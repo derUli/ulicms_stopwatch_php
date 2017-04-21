@@ -1,0 +1,7 @@
+{
+   "id" : "stopwatch_php",
+   "version" : "0.0.1",
+   "description" : "Simple \"StopWatch\" class to measure PHP execution time. The class can handle multiple separate timers at the same time.",
+   "categories" : ["stopwatch", "performance", "time"],
+   "compatible_from" : "2017.1"
+}
